@@ -1,0 +1,6 @@
+pycryptodome==3.17
+matplotlib==3.7.1
+bitarray==2.7.3
+Pillow==9.4.0
+opencv-python==4.4.0.44
+opencv-python-headless==4.5.4.60
